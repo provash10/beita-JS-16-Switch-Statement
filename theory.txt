@@ -1,0 +1,15 @@
+###Class 16 Switch Statement
+
+###Switch Statement
+1. switch(expression) {
+    case n: 
+           code goes here......
+        break;
+
+    case n: 
+           code goes here......
+            break;
+
+    default:
+            code goes here.......
+}
